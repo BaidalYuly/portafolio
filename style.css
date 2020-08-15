@@ -1,0 +1,179 @@
+body {
+    background-image: linear-gradient(to top, #50cc7f 0%, #f5d100 100%);
+    font-family: 'Lemonada', cursive;
+}
+header img {
+    width: 35px;
+    height: 35px;
+    box-shadow: 0px 0px 0px black;
+    
+
+}
+header{
+    
+    display: flex;
+    width: 15%;
+    margin-bottom: 50px;
+    position: relative;
+    left: 80%;
+    top: 10%;
+
+    
+}
+h1{
+    color: white;
+    font-size: 60px;
+    text-align: center;
+    text-shadow:  15px 1px 6px rgba(0, 0,0 , 0.4);
+}
+h2{
+    color: white;
+    text-align: center;
+    display: inline-block;
+    width: 100%;
+    margin-top: 13px;
+    font-size: 30px;
+    text-shadow: 5px 1px 3px rgba(0, 0,0 , 0.4);
+
+}
+
+span{
+    color: red;
+    font-weight: 700;
+    font-size: 24px;
+    text-shadow: 0px 0px 0px rgba(0, 0,0 , 0.4);
+}
+h3{
+    color: white;
+    font-weight: 200;
+    text-shadow: 2px 1px 6px rgba(0, 0,0 , 0.4);
+
+}
+p{
+   display: block;
+   width: 80%;
+   margin: 0  auto 50px; 
+   text-align: center;
+}
+img{
+    display: block;
+    margin: 0 auto 50px ; 
+    width: 500px;
+    height: 400px; 
+    box-shadow: 0px 0px 20px black;
+    transition: transform .5s;
+}
+.inductivo{ 
+    width: 500px;
+    height: 400px;
+
+}
+.deductivo{ 
+    width: 500px;
+    height: 400px;
+}
+.ideas{
+    text-align: left;
+    margin-left:50px;
+
+}
+img:hover{
+    transform: scale(1.2);
+    
+}
+/* .pin{
+
+}
+.pde{
+
+}
+.pan{
+
+}
+.pdi{
+
+}
+.pco{
+
+}
+.psu{
+
+}
+.pdu{
+
+}
+.psy{
+
+}
+.plo{
+
+}
+.pver{
+
+}
+.pla{
+
+}
+.ideas{
+
+}
+.cva{
+
+}
+.cal{
+
+}
+.ccon{
+
+}
+.cpd{
+
+}
+.cdi{
+
+}
+.dob{
+
+}
+.pri{
+
+}
+.plan{
+
+}
+.dec´{
+
+}
+.cont{
+
+}
+.desc{
+
+}
+.com{
+
+}
+.rela{
+
+}
+.odc{
+
+}
+.impo{
+
+}
+.secu{
+
+}
+.orde{
+
+}
+.lac{
+
+}
+.ana{
+
+}
+.sin{
+    
+} */
