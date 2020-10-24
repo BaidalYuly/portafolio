@@ -1,11 +1,14 @@
 body {
+    
     background-image: linear-gradient(to top, #50cc7f 0%, #f5d100 100%);
     font-family: 'Lemonada', cursive;
+    
 }
 header img {
     width: 35px;
     height: 35px;
     box-shadow: 0px 0px 0px black;
+    
     
 
 }
@@ -25,6 +28,7 @@ h1{
     font-size: 60px;
     text-align: center;
     text-shadow:  15px 1px 6px rgba(0, 0,0 , 0.4);
+    
 }
 h2{
     color: white;
@@ -81,99 +85,3 @@ img:hover{
     transform: scale(1.2);
     
 }
-/* .pin{
-
-}
-.pde{
-
-}
-.pan{
-
-}
-.pdi{
-
-}
-.pco{
-
-}
-.psu{
-
-}
-.pdu{
-
-}
-.psy{
-
-}
-.plo{
-
-}
-.pver{
-
-}
-.pla{
-
-}
-.ideas{
-
-}
-.cva{
-
-}
-.cal{
-
-}
-.ccon{
-
-}
-.cpd{
-
-}
-.cdi{
-
-}
-.dob{
-
-}
-.pri{
-
-}
-.plan{
-
-}
-.dec´{
-
-}
-.cont{
-
-}
-.desc{
-
-}
-.com{
-
-}
-.rela{
-
-}
-.odc{
-
-}
-.impo{
-
-}
-.secu{
-
-}
-.orde{
-
-}
-.lac{
-
-}
-.ana{
-
-}
-.sin{
-    
-} */
